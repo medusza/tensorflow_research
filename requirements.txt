@@ -1,0 +1,4 @@
+tensorflow
+tensorflow-metal
+opencv-python
+pillow
