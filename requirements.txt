@@ -2,3 +2,6 @@ tensorflow
 tensorflow-metal
 opencv-python
 pillow
+pandas
+scikit-learn
+seaborn
